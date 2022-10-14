@@ -37,6 +37,7 @@
 [**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Como contribuir**](#-como-contribuir) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Contato**](#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Licença**](#-licença)
 
 </div>
 
@@ -120,9 +121,16 @@ Entre em contato comigo por e-mail ou pelo meu LinkedIn:
 <a href="mailto:math.ribeiro.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/matheus-ribeiro-dev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+## 📝 Licença
+
+<a href="https://github.com/mathrb22/IgniteLab-Design-System/blob/main/LICENSE.md">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/mathrb22/IgniteLab-Design-System">
+</a>
+
+Esse projeto está sob a licença **MIT**. Veja o arquivo _**LICENSE**_ para mais detalhes.
+
 ---
 
 <h5 align="center">
   &copy;2022 - <a href="https://github.com/mathrb22/">Matheus Ribeiro</a>
 </h5>
-```
