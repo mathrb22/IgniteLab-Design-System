@@ -33,7 +33,7 @@
 
 [**Sobre**](#-sobre) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Tecnologias e ferramentas utilizadas**](#-tecnologias-e-ferramentas-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Design**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Design**](#-design) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Como contribuir**](#-como-contribuir) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Contato**](#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
