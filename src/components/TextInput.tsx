@@ -6,15 +6,15 @@ export interface TextInputRootProps {
 }
 
 function TextInputRoot(props: TextInputRootProps) {
-	<div
-		className={clsx(
-			'flex items-center gap-3 py-4 px-3 bg-gray-800 rounded focus:ring-2 focus:ring-cyan-300 outline-none'
-		)}>
-		{props.children}
-	</div>;
+	return (
+		<div
+			className={
+				'flex items-center gap-3 py-4 px-3 bg-gray-800 rounded focus:ring-2 focus:ring-cyan-300 outline-none'
+			}>
+			{props.children}
+		</div>
+	);
 }
-
-// function TextInputIcon() {}
 
 export interface TextInputInputProps
 	extends InputHTMLAttributes<HTMLInputElement> {}

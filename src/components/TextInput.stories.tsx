@@ -8,15 +8,11 @@ export default {
 	args: {
 		children: <TextInput.Input placeholder='Type your e-mail address' />,
 	},
-} as Meta<TextInputRootProps>;
-
-export const Default: StoryObj<TextInputRootProps> = {
-	args: {
-		children: <TextInput.Input placeholder='Type your e-mail address' />,
-	},
 	argTypes: {
 		children: {
 			table: { disable: true },
 		},
 	},
-};
+} as Meta<TextInputRootProps>;
+
+export const Default: StoryObj<TextInputRootProps> = {};
