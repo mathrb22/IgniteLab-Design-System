@@ -49,8 +49,6 @@
 
 <img src=".github/wallpaper-ignitelab.png" alt="Ignite Lab" />
 
-<br/>
-
 Este é o projeto desenvolvido durante o Ignite Lab, um evento online produzido pela [**Rocketseat**](https://github.com/Rocketseat), durante os dias 10 a 14 de outubro de 2022.
 
 O projeto consiste na criação e implementação de um Design System. Para isso, inicialmente foram desenvolvidos os componentes e suas variações no Figma, e em seguida implementados no código, utilizando o React e a ferramenta Storybook para a documentação dos componentes.
