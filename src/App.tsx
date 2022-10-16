@@ -31,6 +31,7 @@ export function App() {
 						<TextInput.Input
 							id='email'
 							type='email'
+							required
 							placeholder='johndoe@example.com'
 						/>
 					</TextInput.Root>
@@ -44,6 +45,7 @@ export function App() {
 						<TextInput.Input
 							id='password'
 							type='password'
+							required
 							placeholder='***********'
 						/>
 					</TextInput.Root>
