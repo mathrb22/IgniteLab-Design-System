@@ -9,7 +9,7 @@ import './styles/global.css';
 
 export function App() {
 	return (
-		<div className='w-screen h-screen bg-gray-900 flex flex-col items-center justify-center text-gray-100 px-6 xxs:px-0'>
+		<div className='w-screen h-screen bg-gray-900 flex flex-col items-center justify-center text-gray-100 py-8 px-6 xxs:px-0 overflow-auto'>
 			<header className='flex flex-col items-center'>
 				<Logo />
 
@@ -76,6 +76,17 @@ export function App() {
 						href=''
 						className='text-gray-400 underline hover:text-gray-200 transition-colors'>
 						Não possui conta? Crie uma agora!
+					</a>
+				</Text>
+
+				<Text size='sm' className='mt-16 text-gray-400'>
+					Desenvolvido por{' '}
+					<a
+						target='_blank'
+						rel='noreferrer'
+						href='https://github.com/mathrb22/IgniteLab-Design-System'
+						className='underline'>
+						@mathrb22
 					</a>
 				</Text>
 			</footer>
