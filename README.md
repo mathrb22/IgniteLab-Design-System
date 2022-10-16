@@ -22,8 +22,10 @@
    </br>
    <a href="#-tecnologias-utilizadas">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img alt="Vite.js" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+      <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
       <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
    </a>
 </div>
@@ -33,7 +35,9 @@
 
 [**Sobre**](#-sobre) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Tecnologias e ferramentas utilizadas**](#-tecnologias-e-ferramentas-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Features**](#-features) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Design**](#-design) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Demo**](#-demo) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Como contribuir**](#-como-contribuir) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Contato**](#-contato) &nbsp;&nbsp;**|**&nbsp;&nbsp;
@@ -61,17 +65,38 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 - [**Vite.JS**](https://vitejs.dev/): ferramenta de construção para front-end moderna que oferece uma experiência de desenvolvimento mais rápida e mais eficiente;
 
+- [**TailwindCSS**](https://tailwindcss.com/): um framework CSS muito flexível que permite criar rapidamente interfaces de usuário complexas e responsivas;
+
 - [**Storybook**](https://storybook.js.org/): uma ferramenta voltada para o desenvolvimento de componentes de interface de usuário isolados, usada por empresas como GitHub, Dropbox, airbnb, Mozilla, entre outras;
 
 - [**RadixUI**](https://www.radix-ui.com/): um conjunto de componentes React acessíveis, flexíveis e com baixo acoplamento, que podem ser usados ​​para construir interfaces de usuário complexas.
 
 - [**Visual Studio Code**](https://code.visualstudio.com/): um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS, recomendado para o desenvolvimento de aplicações web;
 
-## 📟 Design
+## ✨ Features
+
+- [x] Criação de tokens personalizados no design system utilizando o TailwindCSS;
+- [x] Implementação do design pattern de composição no React (Compound Component);
+- [x] Documentação dos componentes e suas variantes no Storybook;
+- [x] CI/CD: configuração do deploy do Storybook por meio de um workflow do Github Actions para o Github Pages;
+- [x] Utilização do [storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y/) para testar os componentes em relação aos padrões de acessibilidade na web;
+
+## 🎨 Design
 
 <img alt="Login UI" src=".github/login-page.png">
 
 O design do projeto foi desenvolvido no Figma, e pode ser acessado através do link: [**Ignite Lab - Design System**](https://www.figma.com/file/GtextqwoVpkKJrFD8Nt9IO/Ignite-Lab---Design-System?node-id=14%3A72).
+
+## 🎉 Demo
+
+Clique nos links para acessar o design system e a interface do projeto:
+
+<a href="https://mathrb22.github.io/IgniteLab-Design-System/">
+<img src="https://img.shields.io/badge/-Design%20System%20(Storybook)-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+</a>
+<a href="https://mathrb22-ignitelab-design-system.vercel.app/">
+<img src="https://img.shields.io/badge/UI%20(Vercel)-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ## 🔧 Instalação e execução
 
