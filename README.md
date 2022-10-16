@@ -80,6 +80,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - [x] Documentação dos componentes e suas variantes no Storybook;
 - [x] CI/CD: configuração do deploy do Storybook por meio de um workflow do Github Actions para o Github Pages;
 - [x] Utilização do [storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y/) para testar os componentes em relação aos padrões de acessibilidade na web;
+- [x] Implementação de [testes de interações](https://storybook.js.org/docs/react/writing-tests/interaction-testing) automatizados utilizando a integração do **Jest** com o Storybook e o [Test Runner](https://storybook.js.org/docs/react/writing-tests/test-runner);
+- [x] Implementação de uma API Mock com o **Mock Service Worker** para simular requisições HTTP, por meio do [MSW Storybook Addon](https://github.com/mswjs/msw-storybook-addon);
 
 ## 🎨 Design
 
